@@ -1,1 +1,2 @@
-worker: python bepis_bot.py
+worker: python aternos_server_bot.py
+
